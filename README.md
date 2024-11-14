@@ -40,3 +40,6 @@ Figma: All wireframes were designed using Figma, allowing easy iteration and col
 - **Centralized Workflow Management** : Integrating third-party tools like Slack and Discord into the platform reduces the need for users to switch between multiple applications, thereby saving time and reducing distractions.
 - **Personal and Professional Goal Tracking** : With sections dedicated to personal and professional goals, the dashboard promotes a balanced approach to productivity, acknowledging the importance of both work and wellness goals.
 - **Data-Driven Insights** : Through visual analytics, such as the weekly process and monthly progress charts, users gain insights into their productivity patterns and can adjust their routines or workflows as needed
+
+
+https://github.com/Muskaan-Singla/CODTECH-TASK-2/blob/main/DASHBOARD.png?raw=true
