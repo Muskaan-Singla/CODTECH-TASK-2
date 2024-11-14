@@ -45,5 +45,5 @@ Figma: All wireframes were designed using Figma, allowing easy iteration and col
 
 ![App Wireframe](https://github.com/Muskaan-Singla/CODTECH-TASK-2/blob/main/DASHBOARD.png?raw=true)
 
-
+### Device Mockup
 ![App Wireframe](https://github.com/Muskaan-Singla/CODTECH-TASK-2/blob/main/DASHBOARD%20UI.png?raw=true)
