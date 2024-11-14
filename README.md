@@ -42,6 +42,8 @@ Figma: All wireframes were designed using Figma, allowing easy iteration and col
 - **Data-Driven Insights** : Through visual analytics, such as the weekly process and monthly progress charts, users gain insights into their productivity patterns and can adjust their routines or workflows as needed
 
 
-https://github.com/Muskaan-Singla/CODTECH-TASK-2/blob/main/DASHBOARD.png?raw=true
 
-https://github.com/Muskaan-Singla/CODTECH-TASK-2/blob/main/DASHBOARD%20UI.png?raw=true
+![App Wireframe](https://github.com/Muskaan-Singla/CODTECH-TASK-2/blob/main/DASHBOARD.png?raw=true)
+
+
+![App Wireframe](https://github.com/Muskaan-Singla/CODTECH-TASK-2/blob/main/DASHBOARD%20UI.png?raw=true)
